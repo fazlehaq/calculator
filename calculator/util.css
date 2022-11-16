@@ -1,0 +1,21 @@
+/* utilityClasses */
+.flex{
+    display: flex;  
+    align-items: center; 
+
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.flex-row{
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.row{
+    margin-bottom: 1rem;
+}
+
